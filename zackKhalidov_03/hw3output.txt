@@ -1,0 +1,26 @@
+Output Report for File: hw3input01.txt
+
+900123456   Joe  Doe  joedoe@msudenver.edu
+  Grade Items
+  1   23456     HW  20170112   100  95
+  2   23456   Quiz  20170114   100  85
+  3   23456  Final  20170118   100  75
+==================================================
+  Total                        300  255   85%
+ 
+900487965   Susan  Doe  susandoe@msudenver.edu
+  Grade Items
+  1   23456     HW  20170112   100  85
+  2   23456   Quiz  20170114   100  70
+  3   23456  Final  20170118   100  70
+==================================================
+  Total                        300  225   75%
+ 
+900487521   David  Smith  davidsmith@msudenver.edu
+  Grade Items
+  1   23456     HW  20170112   100  95
+  2   23456   Quiz  20170114   100  75
+  3   23456  Final  20170118   100  95
+==================================================
+  Total                        300  265   88%
+ 

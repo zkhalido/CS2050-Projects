@@ -1,0 +1,26 @@
+If you'd like to quit enter: 'quit' 
+Enter an infix expression: 
+
+a + b
+ab+
+
+a + b * c
+abc*+
+
+( a + b ) * c
+ab+c*
+
+( a + b ) / ( c - d )
+ab+cd-/
+
+a + ( b - c ) * ( d + e ) / f ^ g - h
+abc-de+*fg^/+h-
+
+( a - b ) + ( c + d ) ^ ( e + f ) * g / h 
+ab-cd+ef+^g*h/+
+
+a - b * c / d - e * f - g ^ h + i
+abc*d/-ef*-gh^-i+
+
+( a - b ) + ( c * d ) * ( e / f ) + ( g - h )
+ab-cd*ef/*+gh-+
